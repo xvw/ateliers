@@ -8,4 +8,4 @@
 
 ## Exécution
 
-*   **npi**: `./npi "votre expression"` (par exemple : `./npi "2 3 +`)
+*   **npi**: `./npi "votre expression"` (par exemple : `./npi "2 3 +"`)
