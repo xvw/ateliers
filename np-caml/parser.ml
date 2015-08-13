@@ -63,7 +63,7 @@ let parse str =
       (* On ne rentre jamais dans ce cas !
          Peut être utiliser un GADT...
       *)
-      | _   -> ( + ) 
+      | _   -> failwith (Printf.sprintf "%c: Inconnu" r) 
     in (Op (parse r)) :: acc
 
   (* Parse les nombres *)
