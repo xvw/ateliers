@@ -13,4 +13,5 @@ np: parser.cmo
 clean:
 	rm -rf *.cm*
 	rm -rf npi
+	rm -rf np
 	rm -rf *~
