@@ -1,6 +1,6 @@
 /* Compteur de caractères
  * Xavier Van de Woestyne <xaviervdw at gmail dot com>
- * Ce code est pour le domaine publique (logique)
+ * Ce code est pour le domaine public (logique)
  * Réalisé en 2015
  */
 
