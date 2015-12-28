@@ -13,4 +13,4 @@ compilables.
 > contre indication.
 
 *  **charcounts** : `make charcounts`.
-   > *Usage*: `./bin/charcounts [phrase à analyser]`
+   (*Usage*: `./bin/charcounts [phrase à analyser]`)
