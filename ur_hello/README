@@ -1,0 +1,2 @@
+- Install UR (http://www.impredicative.com/ur/)
+- execute "make". The server is launched on http://localhost:9999/Ur_hello/main
