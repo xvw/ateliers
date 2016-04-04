@@ -1,0 +1,3 @@
+- Install UR (http://www.impredicative.com/ur/)
+- execute "make". The server is launched on http://localhost:9999/Ur_hello2/main
+- http://localhost:9999/Ur_hello2/hello/PSEUDONYME to say hello to one people !

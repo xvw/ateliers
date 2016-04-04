@@ -1,0 +1,4 @@
+database dbname=ur_hello2
+sql ur_hello2.sql
+
+ur_hello2
