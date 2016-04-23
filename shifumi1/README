@@ -1,0 +1,5 @@
+A super simple SHIFUMI using Haxe and Flixel.
+
+- Need Haxe, OpenFL and Flixel.
+- to run : lime test neko
+(or other lime target)
